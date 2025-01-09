@@ -5,7 +5,7 @@ Apenas testando algumas das várias funções da IA vision do Azure
 a primeira foto testada, foi uma foto de um monitor
 ![imagem_1](https://github.com/user-attachments/assets/8534794e-736a-4951-8786-d5f143c83beb)
 
-O resultado foi melhor que o esperado, visto que conseguiu reconcer ate uma parte que estava borrada
+O resultado foi melhor que o esperado, visto que conseguiu reconhecer até uma parte que estava borrada
 ![imagem_1](https://github.com/user-attachments/assets/b274084e-6159-47a1-90c4-fec6cbb3c6c3)
 
 A segunta foto foi de um texto escrito a mão a muito tempo.
