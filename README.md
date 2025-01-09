@@ -14,5 +14,4 @@ A segunta foto foi de um texto escrito a mão a muito tempo.
 O reultado foi satisfatorio, o reconhecimento de texto do Azure fez o seu melhor ao tentar reconhecer os "garranchos" 
 ![imagem_2](https://github.com/user-attachments/assets/9c61ee20-0e95-4e61-9215-c134c2d67127)
 
-
-
+Tudo isso me deixa cada vez mais animado para descobrir como tudo funciona por baixo dos panos.
