@@ -11,7 +11,7 @@ O resultado foi melhor que o esperado, visto que conseguiu reconhecer até uma p
 A segunta foto foi de um texto escrito a mão a muito tempo.
 ![imagem_2](https://github.com/user-attachments/assets/1c0c7004-4d9b-4e18-a3a2-d959cc9114a3)
 
-O reultado foi satisfatorio, o reconhecimento de texto do Azure reconhce até os "garranchos" 
+O reultado foi satisfatorio, o reconhecimento de texto do Azure fez o seu melhor ao tentar reconhecer os "garranchos" 
 ![imagem_2](https://github.com/user-attachments/assets/9c61ee20-0e95-4e61-9215-c134c2d67127)
 
 
