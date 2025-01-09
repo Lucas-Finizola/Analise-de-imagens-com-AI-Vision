@@ -1,2 +1,2 @@
-# Analise-de-imagens-com-AI-Vision
-Apenas para testa algumas possibilidades e aprender
+# Analise-de-imagens-com-AI-Vision 
+# Apenas testando algumas das várias funções da IA vision do Azure
